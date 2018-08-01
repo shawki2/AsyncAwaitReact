@@ -1,5 +1,4 @@
 // Example with Async & Await in React
-//To run it you need to change the name file to App.js instead of PromisesEx
 import React, { Component } from "react";
 import logo from "./logo.png";
 import "./App.css";
